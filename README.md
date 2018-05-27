@@ -1,2 +1,2 @@
 # bil105
-Intro to C
+Introduction to C assignments
